@@ -9,9 +9,10 @@
 ## Language
 ### Skilled
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-### Used it once
+### Used it at least once
 ![python](https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![go](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## FrameWork
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -20,16 +21,17 @@
 ## DB
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=white)
+![apachecouchdb](https://img.shields.io/badge/apachecouchdb-E42528.svg?&style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ## DevOps
 ![selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
-<div name="additionalbadge">
+<div name="additionalbadge" display="inline">
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Dalaranian)](https://github.com/Dalaranian)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaranian)](https://github.com/Dalaranian/github-readme-stats)<br>
-<br>
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Dalaranian)](https://github.com/Dalaranian)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dalaranian)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaranian)](https://github.com/Dalaranian/github-readme-stats)<br>
+
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDalaranian%2FDalaranian%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
