@@ -26,6 +26,10 @@
 ## DevOps
 ![selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
+## Current Interest
+### Clean Code
+### Modern Java
+
 <div name="additionalbadge" display="inline">
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Dalaranian)](https://github.com/Dalaranian)<br>
