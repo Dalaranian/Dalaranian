@@ -28,8 +28,8 @@
 ![selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Current Interest
-#### Clean Code
-#### Modern Java
+#### <a href = "http://aladin.kr/p/cGVOm">Clean Code</a>
+#### <a href = "http://aladin.kr/p/OL1D1">Modern Java</a>
 
 <div name="additionalbadge" display="inline">
 
