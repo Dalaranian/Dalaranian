@@ -24,9 +24,11 @@
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=white)
 ![apachecouchdb](https://img.shields.io/badge/apachecouchdb-E42528.svg?&style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ## DevOps
 ![selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24962D.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Current Interest
 #### <a href = "http://aladin.kr/p/cGVOm">Clean Code</a>
