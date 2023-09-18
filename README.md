@@ -37,7 +37,6 @@
 <div name="additionalbadge" display="inline">
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Dalaranian)](https://github.com/Dalaranian)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dalaranian)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaranian)](https://github.com/Dalaranian/github-readme-stats)<br>
 
 </div>
