@@ -23,7 +23,6 @@
 ## DB
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=white)
-![apachecouchdb](https://img.shields.io/badge/apachecouchdb-E42528.svg?&style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ## DevOps
 ![selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
